@@ -1,2 +1,2 @@
 # visualization
-Data Visualization-A Practical Introduction-Notes
+Healy-Data Visualization-A Practical Introduction-Notes
